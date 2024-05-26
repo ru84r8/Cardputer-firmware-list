@@ -1,6 +1,9 @@
 # Cardputer-firmware-list
 ## A curated list of firmware for the cardputer by m5stack
 
+<a href="Cardputer"><img src="https://cardputer.wiki/images/cardputer.webp" width="400" height="400" border="0"></a>
+
+
 As I'm not a programmer but a Cardputer enthusiast, my contribution to the communitity is, to start a curated list of Cardputer firmware and other useful information.
 
 
