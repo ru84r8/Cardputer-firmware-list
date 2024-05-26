@@ -14,6 +14,7 @@ https://github.com/Pwnagotchi-Unofficial/minigotchi    Cardputer version of the 
 **Gaming**
 
 https://github.com/lxyMiao/cardputer-nofrendo    NES emulator for m5cardputer.
+
 https://github.com/romalik/m5cardputer_doom    Yes it runs Doom.
 
 
@@ -28,6 +29,7 @@ https://github.com/chrisleewoo/PyTracker-MIDI    A music sequencer inspired by L
 **Programming**
 
 https://github.com/RetiredWizard/PyDOS    DOS-like OS for microcontroller boards running Micropython or Circuitpython - RetiredWizard/PyDOS.
+
 https://github.com/echo-lalia/Cardputer-MicroHydra    MicroHydra is a simple MicroPython based app switcher designed for the M5Stack Cardputer
 
 **Sensors**
