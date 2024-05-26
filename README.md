@@ -30,10 +30,18 @@ https://github.com/chrisleewoo/PyTracker-MIDI    A music sequencer inspired by L
 
 https://github.com/RetiredWizard/PyDOS    DOS-like OS for microcontroller boards running Micropython or Circuitpython - RetiredWizard/PyDOS.
 
-https://github.com/echo-lalia/Cardputer-MicroHydra    MicroHydra is a simple MicroPython based app switcher designed for the M5Stack Cardputer
+https://github.com/echo-lalia/Cardputer-MicroHydra    MicroHydra is a simple MicroPython based app switcher designed for the M5Stack Cardputer.
 
 **Sensors**
 
 **m5stack official**
 
 https://github.com/m5stack/M5Cardputer/tree/master/examples    Cardputer examples to build via Ardiono IDE
+
+https://docs.m5stack.com/en/arduino/m5gfx/m5gfx_functions    Reference documentation
+
+https://docs.m5stack.com/en/arduino/m5gfx/m5gfx_canvas    Reference documentation
+
+https://docs.m5stack.com/en/arduino/m5gfx/m5gfx    Reference documentation
+
+https://docs.m5stack.com/en/arduino/m5gfx/appendix    Reference documentation
