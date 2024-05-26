@@ -1,10 +1,10 @@
 # Cardputer-firmware-list
-A curated list of firmware for the cardputer by m5stack
+##A curated list of firmware for the cardputer by m5stack
 
-As I'm not a programmer but a Cardputer enthusiast, my contribution to the communitity is, to start a curated list of Cardputer firmware.
+###As I'm not a programmer but a Cardputer enthusiast, my contribution to the communitity is, to start a curated list of Cardputer firmware.
 
 
-Enjoy!
+###Enjoy!
 
 **Absolute must have**
 
