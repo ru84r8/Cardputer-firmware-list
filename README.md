@@ -35,7 +35,6 @@ Enjoy!
 |https://github.com/pr3y/m5-bruce/|Bruce, a collection of pentesting tools (WIFI, Bluetooth, IR, etc)|
 |https://github.com/7h30th3r0n3/Evil-M5Core2|Evil cardputer, a collection of pentesting tools (WIFI, Bluetooth, IR, etc)|
 |https://github.com/marivaaldo/evil-portal-m5stack|Evil portal, a captive portal firmware|
-|https://github.com/Pwnagotchi-Unofficial/minigotchi|Cardputer version of the famed Pwnagotchi|
 |https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support|The Maruader firmware a collection of pentesting tools (WIFI, Bluetooth, IR, etc)|
 |https://github.com/justcallmekoko/ESP32Marauder/wiki|Maurauder wiki page|
 |https://github.com/n0xa/m5stick-nemo|Memo, captive portal|
@@ -51,7 +50,6 @@ Enjoy!
 ## Music
 | Link | Description |
 |---|---|
-|https://github.com/chrisleewoo/PyTracker-MIDI|A music sequencer inspired by LSDJ and nanoloop for circuitpython. - chrisleewoo/PyTracker-MIDI|
 |https://github.com/cyberwisk/m5Cardputer_audiospectrum|Spectrum analyses.|
 |https://github.com/DrRhesus/RHesus-RAdio| Webradio|
 ## Programming
