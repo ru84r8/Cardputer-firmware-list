@@ -32,7 +32,7 @@ Enjoy!
 ## Pentesting
 | Link | Description |
 |---|---|
-|https://github.com/pr3y/m5-bruce/|Bruce, a collection of pentesting tools (WIFI, Bluetooth, IR, etc)|
+|https://github.com/pr3y/Bruce|Bruce, a collection of pentesting tools (WIFI, Bluetooth, IR, etc)|
 |https://github.com/7h30th3r0n3/Evil-M5Core2|Evil cardputer, a collection of pentesting tools (WIFI, Bluetooth, IR, etc)|
 |https://github.com/marivaaldo/evil-portal-m5stack|Evil portal, a captive portal firmware|
 |https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support|The Maruader firmware a collection of pentesting tools (WIFI, Bluetooth, IR, etc)|
